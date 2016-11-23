@@ -8,7 +8,7 @@ Directorul de lucru este: C:\xampp\htdocs\authentication
 
 ==
 Au fost instalate:
-  1. XAMPP
+  1. XAMPP (https://www.apachefriends.org/ro/download.html)
   2. Composer (https://getcomposer.org/download/)
   3. Am rulat comanda: composer dump-autoload -o
   4. Slim (composer require slim/slim "^3.0")

@@ -17,4 +17,7 @@ Au fost instalate:
   7. Am rulat comanda: composer dump-autoload -o
   8. Eloquent (composer require illuminate/database) - faciliteaza lucrul cu BD
   
+==
+Am parcurs lectiile video YouTube pina la: https://youtu.be/70IkLMkPyPs?list=PLfdtiltiRHWGc_yY90XRdq6mRww042aEC
+  
 

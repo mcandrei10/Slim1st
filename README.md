@@ -19,5 +19,13 @@ Au fost instalate:
   
 ==
 Am parcurs lectiile video YouTube pina la: https://youtu.be/70IkLMkPyPs?list=PLfdtiltiRHWGc_yY90XRdq6mRww042aEC
+
+==
+.htaccess
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
   
 

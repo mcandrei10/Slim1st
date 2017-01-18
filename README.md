@@ -1,4 +1,4 @@
-2# Slim1st
+Slim1st
 
 ==
 Primul proiect cu Slim Framework - code files

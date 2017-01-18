@@ -15,11 +15,8 @@ Au fost instalate:
   5. De adaugat pasajul ref la psr-4 in composer.json 
   6. Am rulat comanda: composer dump-autoload -o
   7. Eloquent (composer require illuminate/database) - faciliteaza lucrul cu BD
-  
-==
-Am parcurs lectiile video YouTube astfel:
-  1. Routing si utilizarea Twig pina la: https://youtu.be/3VVtR0A9VPc?list=PLfdtiltiRHWGc_yY90XRdq6mRww042aEC
-  2. Folosirea de BD cu Eloquent la:    https://youtu.be/70IkLMkPyPs?list=PLfdtiltiRHWGc_yY90XRdq6mRww042aEC
+  8. Respect\Validation - pentru validarea cimpurilor input: composer require respect/validation
+  9. Slim CSFR protection: composer require slim/csrf
 
 ==
 .htaccess din directorul /public

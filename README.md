@@ -17,7 +17,7 @@ Au fost instalate:
   7. Eloquent (composer require illuminate/database) - faciliteaza lucrul cu BD
   8. Respect\Validation - pentru validarea cimpurilor input: composer require respect/validation
   9. Slim CSFR protection: composer require slim/csrf
-  10. Slim Flash - afisare de mesaje: 
+  10. Slim Flash - afisare de mesaje: composer require slim/flash
 
 ==
 .htaccess din directorul /public
